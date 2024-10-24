@@ -1,0 +1,26 @@
+{
+    "name": "senselogic-cake",
+    "description": "Cookie consent base library.",
+    "version": "1.0.0",
+    "author": "Eric Pelzer <ecstatic.coder@gmail.com>",
+    "license": "LGPL-3.0-only",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/senselogic/CAKE.git"
+    },
+    "bugs": {
+        "url": "https://github.com/senselogic/CAKE/issues"
+    },
+    "homepage": "https://github.com/senselogic/CAKE",
+    "type": "module",
+    "main": "index.js",
+    "files": [
+        "index.js",
+        "README.md"
+    ],
+    "keywords": [
+        "cake"
+    ],
+    "devDependencies": {
+    }
+}
